@@ -11,4 +11,4 @@ license: cc
 ---
 
 # hugging-face-demo2
-[![Sync to Hugging Face hub](https://github.com/chibao24/HuFaMLops/actions/workflows/main.yml/badge.svg)](https://github.com/chibao24/demo2/actions/workflows/main.yml)
+[![Sync to Hugging Face hub](https://github.com/mrzaizai2k/HuFaMLops/actions/workflows/main.yml/badge.svg)](https://github.com/mrzaizai2k/HuFaMLops/actions/workflows/main.yml)
