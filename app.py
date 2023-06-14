@@ -1,6 +1,6 @@
 from transformers import pipeline
 import gradio as gr
-
+# I add cmt
 
 # Initialize the summarization model
 model = pipeline("summarization")
